@@ -9,6 +9,6 @@ class bank2(bank1):
         print("ICICI bank")
         print("raja")
 b=bank2()
-b.name()
+b.name() 
 b.name1()
 b.name2()
